@@ -11,7 +11,7 @@
         android:usesCleartextTraffic="false">
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.tikview.android.MainActivity"
             android:exported="true">
 
             <intent-filter>
@@ -22,4 +22,5 @@
         </activity>
 
     </application>
+
 </manifest>
